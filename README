@@ -1,0 +1,15 @@
+This is the code to make SDSS/LRG catalogs to reconstruct Halo catalogs by removing satellite galaxies
+using Counts-in-Cylinder method devloped by Reid & Spergel 2009.
+
+Although the fraction of satellite galaxies are just about 6% of the LRG catalog,
+they are major sources of the non-linear redshift distortions, known as Fingers-of-God (FoG) effect,
+which makes the theoretical modeling of the LRG clusterings difficult.
+The reconstructed halo catalogs significantly reduces the systematics due to FoG effect and then
+improve the accuracy of the growth rate measurement.
+
+These works are summarized in the following papers.
+
+ C. Hikage, M. Takada, D.N.Spergel, MNRAS 419 (2012), 3457-3481
+ C. Hikage, R. Mandelbaum, M. Takada, D.N.Spergel, MNRAS 435 (2013) 2345-2370
+ C. Hikage, K. Yamamoto, JCAP 2013, 08, id.19
+ 
