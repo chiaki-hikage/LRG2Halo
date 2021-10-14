@@ -14,3 +14,11 @@ LRGの多くはセントラル銀河であると考えられますが、サテ�
 サテライト銀河の多くが取り除かれていることを確認しました。
 
 # References
+
+- Where are the Luminous Red Galaxies (LRGs)? Using correlation measurements and lensing to relate LRGs to dark matter halos  
+Chiaki Hikage, Rachel Mandelbaum, Masahiro Takada, David N. Spergel  
+Mon. Not. Roy. Astron. Soc., Vol.435, Issue 3 (2013) 2345-2370
+
+- Impacts of satellite galaxies on the redshift-space distortions  
+Chiaki Hikage, Kazuhiro Yamamoto  
+J. Cosmol. Astropart. Phys. Vol 2013, Issue 08, id.19
